@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "わたし、魔法使い",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-15T13:27:50.048568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わたし、魔法使い",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_わたし、魔法使い_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わたし、魔法使い (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_わたし、魔法使い_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたし、魔法使い",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_わたし、魔法使い_=LOVE.txt"
+    }
+  ]
+}
